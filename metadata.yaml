@@ -1,10 +1,16 @@
 _repo: Southern-Hearts_47721
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47721-h/images/cover.jpg
 creator:
   author:
     agent_name: Winterburn, Florence Hull
     gutenberg_agent_id: '44444'
     url: http://www.gutenberg.org/2009/agents/44444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47721#Southern-Hearts
 gutenberg_issued: '2014-12-20'
 gutenberg_type: Text
 identifiers:
